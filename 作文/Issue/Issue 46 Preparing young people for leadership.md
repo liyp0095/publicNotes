@@ -45,3 +45,13 @@ Those who would oppose the speaker might point out that a thriving economy depen
 - technological paradigms 技术范例
 - not necessarily 不需要 并不是必要的
 - inconsistent 不一致，不协调，不和谐
+
+In sum, if we were to take the speaker's advice too far we would risk becoming a world without leaders, who are bred of a competitive spirit. We would also risk the key benefits of a free-market economy. Nevertheless, on balance I agree that it is more important to instill in young people a sense of cooperation than one of competition. The speaker's preference properly reflects the growing role of cooperative alliances and efforts in solving the world's most pressing problems. After all, in a world in which our *very* survival as a species depends on cooperation, the spirit of even healthy competition, no matter how healthy, is of little value to any of us.
+
+- be to do 按照计划应当做什么
+- bred 孕育，繁殖 I was born and bred in the highland.
+- instill in young people sth 使年轻人慢慢获得。。。
+- growing role 越来越重要的角色、
+- Nevertheless 否则
+- be of little value 没有价值 be of interest 有趣的
+- very + 名词， 强调重要性，唯一的，仅仅等，At one stage his very life was in danger.
