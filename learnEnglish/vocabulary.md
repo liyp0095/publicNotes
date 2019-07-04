@@ -14,4 +14,5 @@
 ## July 3rd
 
 - indented 缩紧
+- traversal
 - 
