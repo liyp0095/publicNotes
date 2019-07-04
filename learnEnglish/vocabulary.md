@@ -10,4 +10,8 @@
 - residue
 - identical sequences
 - defline
+
+## July 3rd
+
+- indented 缩紧
 - 
