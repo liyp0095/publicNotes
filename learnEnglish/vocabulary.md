@@ -15,4 +15,10 @@
 
 - indented 缩紧
 - traversal
+
+## July 4th
+
+- explicitly 精密，不含糊
+- suppress : prevent development, action or expression of a feeling, impulse.
+- impulse
 - 
