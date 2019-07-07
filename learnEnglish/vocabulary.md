@@ -21,4 +21,12 @@
 - explicitly 精密，不含糊
 - suppress : prevent development, action or expression of a feeling, impulse.
 - impulse
-- Morris Traversal 
+- Morris Traversal
+
+## July 5th
+
+- dental insurance
+- eligibility
+- Dependents include your spouse,
+domestic partner, and/or children under age 26. You can also choose to decline dental coverage on this page.
+-
