@@ -36,3 +36,16 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - drupal
 - consent 同意 许可
 - phenotype
+- The term "RSVP" comes from the French expression répondez s'il vous plaît, meaning "please respond."
+- philosophical
+- literature
+- causal
+- bodily tissues
+- etiological
+- ultimate answer
+- explicitly incorporates
+- causal role function
+- anatomy 解剖学
+- stalwartly  loyal, reliable, hardworking
+- trait  特点 特征
+- 

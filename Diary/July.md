@@ -8,4 +8,10 @@ notes:
     - shift + command + p = command
   - install date package
 
-- drupal 
+- drupal
+
+
+- what is hadoop, set up on ubuntu
+- what is mysql, apache ?
+
+##
