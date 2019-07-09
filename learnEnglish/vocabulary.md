@@ -48,4 +48,9 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - anatomy 解剖学
 - stalwartly  loyal, reliable, hardworking
 - trait  特点 特征
-- 
+-
+
+## 09-07-2019
+
+- acknowledgement
+-
