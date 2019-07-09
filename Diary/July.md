@@ -14,4 +14,8 @@ notes:
 - what is hadoop, set up on ubuntu
 - what is mysql, apache ?
 
-##
+## 09-07-2019
+
+The problem of how to work ?
+
+XCEDE super computer.
