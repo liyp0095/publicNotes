@@ -53,4 +53,8 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 ## 09-07-2019
 
 - acknowledgement
--
+- composite 合成 综合 合成物
+- intimidating 威吓 恐吓
+- cryptic : having a meaning that is mysterious or obscure
+- ecosystem : biological community of interacting organisms and their physical environment.
+- integrate with 整合，结合。
