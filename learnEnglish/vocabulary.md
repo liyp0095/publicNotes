@@ -53,13 +53,10 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 ## 09-07-2019
 
 - acknowledgement
-<<<<<<< HEAD
 - composite 合成 综合 合成物
 - intimidating 威吓 恐吓
 - cryptic : having a meaning that is mysterious or obscure
 - ecosystem : biological community of interacting organisms and their physical environment.
 - integrate with 整合，结合。
-=======
 - frustration: the feeling of being upset or annoyed, especially because of inability to change or achieve something 挫折 挫败
 - curation : the action or process of selecting, organizing, and looking after the items in a collection or exhibition.
->>>>>>> 75385a8e88bc43f654175dc76721b1724565c607
