@@ -53,4 +53,5 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 ## 09-07-2019
 
 - acknowledgement
--
+- frustration: the feeling of being upset or annoyed, especially because of inability to change or achieve something 挫折 挫败
+- curation : the action or process of selecting, organizing, and looking after the items in a collection or exhibition.
