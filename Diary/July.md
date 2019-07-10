@@ -49,3 +49,8 @@ install
 **When we want to run hadoop, start dfs and yarn**
 
 **When start a new task, delete all the file in datanode**
+
+```sh
+netstat -lpten | grep java
+# see tcp connections. 
+```
