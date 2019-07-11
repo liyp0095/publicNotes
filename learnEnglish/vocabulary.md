@@ -62,3 +62,13 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - curation : the action or process of selecting, organizing, and looking after the items in a collection or exhibition.
 - mandatory
 -
+
+## 2019-07-11
+
+- substantial
+- jury
+- criteria
+- snippets
+- manageable
+- taxonomy
+- vetted
