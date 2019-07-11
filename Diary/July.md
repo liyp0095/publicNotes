@@ -20,6 +20,10 @@ The problem of how to work ?
 
 XCEDE super computer.
 
+----------
+
+letter to hamid.
+
 
 ## 10-07-2019
 
@@ -52,5 +56,7 @@ install
 
 ```sh
 netstat -lpten | grep java
-# see tcp connections. 
+# see tcp connections.
 ```
+
+## 2019-07-11
