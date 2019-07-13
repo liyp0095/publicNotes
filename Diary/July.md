@@ -60,3 +60,13 @@ netstat -lpten | grep java
 ```
 
 ## 2019-07-11
+
+## 2019-07-12
+
+- what is apache ?
+
+- what is apache hadoop?
+
+Apache Hadoop is designed for a multi-machine cluster setup. Though it is possible to run on single machine also for testing purpose but real implementation is for multi-machine clusters.
+
+- hadoop cluster on virtualBox
