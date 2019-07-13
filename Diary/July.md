@@ -75,6 +75,8 @@ ssh -l yuepei bridges.psc.edu
 
 - what is apache ?
 
+The mission of the Apache Software Foundation (ASF) is to provide software for the public good. We do this by providing services and support for many like-minded software project communities consisting of individuals who choose to participate in ASF activities.
+
 - what is apache hadoop?
 
 Apache Hadoop is designed for a multi-machine cluster setup. Though it is possible to run on single machine also for testing purpose but real implementation is for multi-machine clusters.
