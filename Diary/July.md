@@ -63,6 +63,16 @@ netstat -lpten | grep java
 
 ## 2019-07-12
 
+- XSEDE computer:
+
+https://www.xsede.org/
+
+The email reaction is slow. Be patient. We have account yuepei and password, and password for PSC.
+
+```sh
+ssh -l yuepei bridges.psc.edu
+```
+
 - what is apache ?
 
 - what is apache hadoop?
