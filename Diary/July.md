@@ -61,24 +61,10 @@ netstat -lpten | grep java
 
 ## 2019-07-11
 
-## 2019-07-12
+oil change and check of my car.
 
-- XSEDE computer:
+No more work at weekend.
 
-https://www.xsede.org/
+## 2019-07-14
 
-The email reaction is slow. Be patient. We have account yuepei and password, and password for PSC.
-
-```sh
-ssh -l yuepei bridges.psc.edu
-```
-
-- what is apache ?
-
-The mission of the Apache Software Foundation (ASF) is to provide software for the public good. We do this by providing services and support for many like-minded software project communities consisting of individuals who choose to participate in ASF activities.
-
-- what is apache hadoop?
-
-Apache Hadoop is designed for a multi-machine cluster setup. Though it is possible to run on single machine also for testing purpose but real implementation is for multi-machine clusters.
-
-- hadoop cluster on virtualBox
+Sunday. Check answer.
