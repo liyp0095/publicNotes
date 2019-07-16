@@ -74,3 +74,7 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - vetted
 
 ## 2019-07-12
+
+## 2019-07-15
+
+- deprecated 
