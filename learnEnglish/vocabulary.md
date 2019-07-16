@@ -77,4 +77,5 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 
 ## 2019-07-15
 
-- deprecated 
+- deprecated 遗弃
+- invoke
