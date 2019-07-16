@@ -68,3 +68,9 @@ No more work at weekend.
 ## 2019-07-14
 
 Sunday. Check answer.
+
+## 2019-07-16
+
+On mac, we got error. 
+
+Exception in thread "main" java.net.ConnectException: Call From atan-115b-11.cs.iastate.edu/10.26.54.106 to localhost:9000 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
