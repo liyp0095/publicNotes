@@ -78,4 +78,25 @@ Exception in thread "main" java.net.ConnectException: Call From atan-115b-11.cs.
 
 ## 2019-07-17
 
-I didn't went lab today. 
+I didn't went lab today.
+
+## 2019-07-18
+
+Time pass so quickly. It turns out every one knows what to do except me.
+
+- learn hadoop on mac / ubuntu
+
+  - jar on mac to virtualBox
+
+- connection failed : we need start dfs
+
+hadoop works like a server. This server manage many namenode and datanode, distribute resources. Our computer works like a client. This client upload files and codes to server and server start new jobs about it.
+
+```sh
+hadoop fs -put
+hadoop fs -ls hdfs://localhost:54310/
+```
+
+- hadoop com.sun.tools.javac.Main wordCount.java
+
+error bad substitution. no HADOOP_CLASS.
