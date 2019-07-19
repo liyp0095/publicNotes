@@ -87,4 +87,8 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 ## 2019-07-18
 
 - daemons 恶魔？
-- 
+
+## 2019-07-19
+
+- install dataset
+- pilot 飞行员，领航员，试验性质的
