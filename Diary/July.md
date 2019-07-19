@@ -99,4 +99,14 @@ hadoop fs -ls hdfs://localhost:54310/
 
 - hadoop com.sun.tools.javac.Main wordCount.java
 
-error bad substitution. no HADOOP_CLASS.
+error bad substitution. no HADOOP_CLASS. java/lib/tools.jar
+
+- jar vtf jarfile (https://blog.csdn.net/liuhui_306/article/details/51872567)
+
+## 2019-07-19
+
+- mac virtualbox share folder.
+https://www.youtube.com/watch?v=YSLNqXxyUtk
+```sh
+sudo mount -t vboxsf mac_share /media/test1
+```
