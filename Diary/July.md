@@ -110,3 +110,5 @@ https://www.youtube.com/watch?v=YSLNqXxyUtk
 ```sh
 sudo mount -t vboxsf mac_share /media/test1
 ```
+
+- map reduce java code
