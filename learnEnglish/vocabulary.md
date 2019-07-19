@@ -92,3 +92,5 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 
 - install dataset
 - pilot 飞行员，领航员，试验性质的
+- permission 权限
+- meta : self-referential
