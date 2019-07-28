@@ -116,3 +116,17 @@ sudo mount -t vboxsf mac_share /media/test1
 ## 2019-07-23
 
 I don't know what to do?
+
+## 2019-07-27
+
+- rent house 1217 delever (first property)
+- jinqiao invited me a dinner.
+- no one in lab at night.
+
+
+- what to do?
+  - sumon paper
+  - read source code of python parser
+  - write r parser
+
+##
