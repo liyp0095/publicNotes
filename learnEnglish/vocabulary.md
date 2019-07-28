@@ -94,3 +94,17 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - pilot 飞行员，领航员，试验性质的
 - permission 权限
 - meta : self-referential
+
+## 2019-07-27
+
+- evict : expel someone from a property.
+- proviso : a condition attached to an agreement.
+- Adding a proviso or acknowledging reservations
+- despite this
+- with this in mind
+- provided that
+- in view of / in light of
+- nonetheless : in spite of that. 尽管如此
+- notwithstanding : in spite of 虽然
+
+https://www.oxford-royale.com/articles/words-phrases-good-essays.html
