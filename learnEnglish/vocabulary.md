@@ -104,6 +104,10 @@ domestic partner, and/or children under age 26. You can also choose to decline d
 - with this in mind
 - provided that
 - in view of / in light of
+```
+Usage: These phrases are used when something has shed light on something else.
+Example: “In light of the evidence from the 2013 study, we have a better understanding of…”
+```
 - nonetheless : in spite of that. 尽管如此
 - notwithstanding : in spite of 虽然
 
