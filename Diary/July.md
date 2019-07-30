@@ -143,3 +143,5 @@ I don't know what to do?
 *Boa Meets Python*
 
 The Python parser, implemented in Java, is used to parse the source code retrieved by JGit from the local repository into AST data
+
+- talk with sumon about the r parser work. 
