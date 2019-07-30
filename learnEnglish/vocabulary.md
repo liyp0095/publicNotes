@@ -117,4 +117,7 @@ https://www.oxford-royale.com/articles/words-phrases-good-essays.html
 
 - parser
 - jgit
-- 
+- productive and enjoyable
+- stipend payments
+- effective July 1st,
+- compensating : give (someone) something, typically money, in recognition of loss, suffering, or injury incurred; recompense. (补偿)
