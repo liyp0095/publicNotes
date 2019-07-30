@@ -139,3 +139,7 @@ I don't know what to do?
 
 - moving into new apartment (aug 1st noon)
 - R parser in JAVA
+
+*Boa Meets Python*
+
+The Python parser, implemented in Java, is used to parse the source code retrieved by JGit from the local repository into AST data
