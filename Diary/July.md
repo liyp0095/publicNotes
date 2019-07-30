@@ -129,4 +129,7 @@ I don't know what to do?
   - read source code of python parser
   - write r parser
 
-## 
+## 2019-07-30
+
+- moving into new apartment (aug 1st noon)
+- R parser in JAVA
