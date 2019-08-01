@@ -144,4 +144,9 @@ I don't know what to do?
 
 The Python parser, implemented in Java, is used to parse the source code retrieved by JGit from the local repository into AST data
 
-- talk with sumon about the r parser work. 
+- talk with sumon about the r parser work.
+
+## 2019-07-31
+
+- move apartment
+- R parser.
