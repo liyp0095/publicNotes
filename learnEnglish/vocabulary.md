@@ -121,3 +121,9 @@ https://www.oxford-royale.com/articles/words-phrases-good-essays.html
 - stipend payments
 - effective July 1st,
 - compensating : give (someone) something, typically money, in recognition of loss, suffering, or injury incurred; recompense. (补偿)
+
+## 2019-08-01
+
+- lexer
+- parser
+- 
