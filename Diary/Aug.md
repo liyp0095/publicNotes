@@ -24,3 +24,13 @@ https://github.com/antlr/antlr4
 Grammars written for ANTLR v4
 
 https://github.com/antlr/grammars-v4
+
+## 2019-08-02
+
+antlr4 introduce and usage.
+
+https://abcdabcd987.com/notes-on-antlr4/
+
+install:
+
+https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
