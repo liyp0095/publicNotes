@@ -131,4 +131,6 @@ https://www.oxford-royale.com/articles/words-phrases-good-essays.html
 ## 2019-08-05
 
 - schema  模式 概要
-- 
+-
+
+## 2019-08-06
