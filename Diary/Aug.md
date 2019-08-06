@@ -56,10 +56,9 @@ https://www.cnblogs.com/clonen/p/9083359.html
 ## 2019-08-06
 
 - hadoop 2.9 works for boa. Yarn has logs to show errors in Hadoop.  
--
 
 findJAR:
 https://www.findjar.com/index.x
 
 - python parser https://github.com/boalang/compiler/tree/pydatagen/src/java/boa/datagen/util/python3
-- Jackson is Json 
+- Jackson is Json
