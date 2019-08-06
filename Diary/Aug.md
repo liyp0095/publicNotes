@@ -44,3 +44,11 @@ https://www.cnblogs.com/clonen/p/9083359.html
 新家挺大的，夜里睡觉也很安静。空调给力。窗户朝东，窗帘不好挂。
 
 ## 2019-08-05
+
+[boa meets python (presentation)](http://design.cs.iastate.edu/papers/MSR-19/msr19-presentation.pdf)
+
+[boa meets python (github)](https://github.com/boalang/MSR19-DataShowcase)
+
+[boa schema (paper)](http://design.cs.iastate.edu/papers/MSR-19/msr19.pdf)
+
+[]
