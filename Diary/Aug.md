@@ -62,3 +62,5 @@ https://www.findjar.com/index.x
 
 - python parser https://github.com/boalang/compiler/tree/pydatagen/src/java/boa/datagen/util/python3
 - Jackson is Json
+- packages in eclipse
+- Code test project in eclipse
