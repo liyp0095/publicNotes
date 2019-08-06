@@ -52,3 +52,8 @@ https://www.cnblogs.com/clonen/p/9083359.html
 [boa schema (paper)](http://design.cs.iastate.edu/papers/MSR-19/msr19.pdf)
 
 []
+
+## 2019-08-06
+
+- hadoop 2.9 works for boa. Yarn has logs to show errors in Hadoop.  
+- 
