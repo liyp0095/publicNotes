@@ -1,2 +1,7 @@
 *~
 !.gitignore
+
+# latex
+*.log
+*.aux
+*.out
